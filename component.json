@@ -1,0 +1,13 @@
+{
+  "name": "Snippet",
+  "version": "1.0.0",
+  "description": "Вывод сниппетов",
+  "author": "LiquidHub.ru",
+  "type": "snippets",
+  "homepage": "https://github.com/insales-components/snippet",
+  "props": {
+    "common": false,
+    "liquid": true
+  },
+  "dependencies": {}
+}
